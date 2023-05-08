@@ -11,5 +11,7 @@ void main(List<String> args) {
   Final : 
   1) It is same as const but the only difference is we can modify the value here
   2) It helps in avoiding reassigning the value
+  3) It is used when we want to assign the value at runtime
+  4) It allows internal mutation
   */
 }
